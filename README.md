@@ -1,4 +1,4 @@
-# Belief-Rule-Base-Demo
+# Belief Rule Base Demo
 BRB experimental implementation
 
 # Requirements
