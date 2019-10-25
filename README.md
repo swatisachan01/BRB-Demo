@@ -18,9 +18,9 @@ scipy==0.19.1
 ```
 
 steps for implementation of BRB
-* 1) Get input data
-* 2) Generate rules
-* 3) Transform data as a distribution over a set of referential values
+1) Get input data
+2) Generate rules
+3) Transform data as a distribution over a set of referential values
 * 4) set initial values of parameters of BRB
 * 5) Inference process: find activated rules, activation weight, aggregate the beliefs (output of all rules) by evidential reasoning 
 * 5) optimize BRB model
