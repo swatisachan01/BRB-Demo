@@ -1,8 +1,6 @@
 # BRB-Demo
 BRB experimental implementation
 
-Steps for impl
-
 # Requirements
 ```
 pandas==0.20.3
